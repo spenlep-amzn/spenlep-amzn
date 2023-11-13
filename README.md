@@ -1,0 +1,3 @@
+- https://github.com/amazon-connect/amazon-connect-chat-interface
+- https://github.com/amazon-connect/amazon-connect-chatjs
+- https://github.com/amazon-connect/amazon-connect-chat-ui-examples
